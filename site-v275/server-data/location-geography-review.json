@@ -1,0 +1,3883 @@
+{
+  "version": "geography-20261018-2",
+  "reviewed_revision": 768,
+  "location_count": 382,
+  "history_count": 618,
+  "locations": {
+    "loc-2910ecfbcbc2": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6e20a327a215": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2af7d8619f91": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6bb62fd701ab": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-560441ea9d77": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-810d73dd8d71": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-e311949fd61e": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-eca324afcab6": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-45423020ad09": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b0b8f98ca320": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1f4d696638d3": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-89224341a27e": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b325dabf91fe": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-83d648e15d1b": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1f4624158a23": {
+      "from_areas": [
+        "폐석재창고"
+      ],
+      "area_name": "폐석재창고",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d0006f8763ae": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-9c975dc33992": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "황금연어강 지류 갈대늪",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ca1eb3a22b38": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "황금연어강 지류 갈대늪",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f462b8643720": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2884c9e583bd": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2d8f29afbbe2": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-fff224b6269f": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-1ab427065fec": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-abbdbca270ac": {
+      "from_areas": [
+        "돌다리 외곽",
+        "돌다리 일대 · 기록 혼합",
+        "돌다리 남서 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을",
+      "name": "돌다리 남서 입구",
+      "remove_aliases": [
+        "돌다리 마을 남쪽 방면 — 목동 인계",
+        "파라의 작업대 앞"
+      ],
+      "remove_targets": [
+        "돌다리 마을 남쪽 방면 — 목동 인계",
+        "파라의 작업대 앞"
+      ]
+    },
+    "loc-67e47805fcb5": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ce8283de0bbe": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-f04424391917": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-5b518adcc661": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b92debacd076": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-852a664019b4": {
+      "from_areas": [
+        "돌다리 마을",
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b636840dae58": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1321bce5863f": {
+      "from_areas": [
+        "돌다리 마을",
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-cd4dd4662cd8": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-893c7e3e260f": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-0dc9193d9d34": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-20c1740b88ae": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-5282c38d3afb": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-31e88f97ae93": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-a85f13173079": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-99e23c396e8b": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-bad70a3177be": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-9ed8a20bd458": {
+      "from_areas": [
+        "돌다리 마을",
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "stonebridge-southeast-meadow": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-1a85c4d07def": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-b2b0dd682bf6": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-b8257d038024": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-25aafa4d3c7a": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-7250d5d5b406": {
+      "from_areas": [
+        "돌다리 남동 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-3f00d4df9dfb": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 남동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "SE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-f0c2bd32682c": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-361190449c14": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌턱개울 수계",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-179a92773064": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌턱개울 수계",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a8a617eab8aa": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ce8d45e59d7d": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-3510f2e0cf97": {
+      "from_areas": [
+        "돌다리 외곽",
+        "붉은갈대 부락 주변 · 방향 미확정",
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2c3ac49db194": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "황금연어강 곁분류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "low-willow-forest-road": {
+      "from_areas": [
+        "분류 미확정"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-stonebridge-dock": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-stonebridge-temple": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ogre-west-road": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ogre-birch-hills": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ogre-attack-traces": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ogre-rock-ridge-road": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ogre-ruined-stone-yard": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-prep-guild-material-bench": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-prep-cart-workshop": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-prep-cart-celebration-yard": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-prep-flour-bakery": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-prep-grain-yard": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-prep-flour-handoff": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-prep-hill-approach": {
+      "from_areas": [
+        "돌다리 북서 저장굴"
+      ],
+      "area_name": "돌다리 북서 저장굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-prep-hill-cave-mouth": {
+      "from_areas": [
+        "돌다리 북서 저장굴"
+      ],
+      "area_name": "돌다리 북서 저장굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-prep-hill-storage-hollow": {
+      "from_areas": [
+        "돌다리 북서 저장굴"
+      ],
+      "area_name": "돌다리 북서 저장굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-01": {
+      "from_areas": [
+        "석회암 골짜기"
+      ],
+      "area_name": "석회암 골짜기",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-02": {
+      "from_areas": [
+        "석회암 골짜기"
+      ],
+      "area_name": "석회암 골짜기",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-03": {
+      "from_areas": [
+        "석회암 골짜기"
+      ],
+      "area_name": "석회암 골짜기",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-04": {
+      "from_areas": [
+        "습한 자연동굴"
+      ],
+      "area_name": "습한 자연동굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-05": {
+      "from_areas": [
+        "습한 자연동굴"
+      ],
+      "area_name": "습한 자연동굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-06": {
+      "from_areas": [
+        "습한 자연동굴"
+      ],
+      "area_name": "습한 자연동굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-07": {
+      "from_areas": [
+        "붉은 호수 수변"
+      ],
+      "area_name": "붉은 호수 수변",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-08": {
+      "from_areas": [
+        "붉은 호수 수변"
+      ],
+      "area_name": "붉은 호수 수변",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-09": {
+      "from_areas": [
+        "붉은 호수 수변"
+      ],
+      "area_name": "붉은 호수 수변",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-10": {
+      "from_areas": [
+        "붉은 호수 중앙 섬"
+      ],
+      "area_name": "붉은 호수 중앙 섬",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-redlake-11": {
+      "from_areas": [
+        "붉은 호수 중앙 섬"
+      ],
+      "area_name": "붉은 호수 중앙 섬",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-stonewash-run": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-pineledge-camp": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-ashridge-hamlet": {
+      "from_areas": [
+        "돌다리 서북 작업산길"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-threepost-relay": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-fork": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-white": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-relay": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-creek": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-charcoal": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-bellfork": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-pass": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-outpost": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-slope": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-fortedge": {
+      "from_areas": [
+        "돌다리 서북 옛 도로망"
+      ],
+      "area_name": "돌다리 북서 옛 도로망",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-funeralroad": {
+      "from_areas": [
+        "검은종 수도원 접근권"
+      ],
+      "area_name": "검은종 수도원 접근권",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-approach-bellgate": {
+      "from_areas": [
+        "검은종 수도원 접근권"
+      ],
+      "area_name": "검은종 수도원 접근권",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-earthhomes": {
+      "from_areas": [
+        "돌다리 동쪽 흙지붕 구릉"
+      ],
+      "area_name": "돌다리 동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-orchard": {
+      "from_areas": [
+        "돌다리 동북 과수 구릉"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-boartrail": {
+      "from_areas": [
+        "돌다리 동북 과수 구릉"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-bridge": {
+      "from_areas": [
+        "돌다리 동북 생활·작업길"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-bridgecamp": {
+      "from_areas": [
+        "돌다리 동북 생활·작업길"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-lowerherd": {
+      "from_areas": [
+        "돌다리 상류 방목 구릉"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-windpass": {
+      "from_areas": [
+        "돌다리 상류 방목 구릉"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-harpyscree": {
+      "from_areas": [
+        "돌다리 상류 방목 구릉"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-uppercamp": {
+      "from_areas": [
+        "돌다리 상류 방목 구릉"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-eastroad": {
+      "from_areas": [
+        "돌다리 동북 생활·작업길",
+        "돌다리 동·북동 생활길",
+        "돌다리 북동 외곽"
+      ],
+      "area_name": "돌다리 북동 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ind-northroad": {
+      "from_areas": [
+        "돌다리 상류 방목 구릉"
+      ],
+      "area_name": "돌다리 북 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-1": {
+      "from_areas": [
+        "유리맥굴"
+      ],
+      "area_name": "유리맥굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-2": {
+      "from_areas": [
+        "유리맥굴"
+      ],
+      "area_name": "유리맥굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-3": {
+      "from_areas": [
+        "유리맥굴"
+      ],
+      "area_name": "유리맥굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-4": {
+      "from_areas": [
+        "유리맥굴"
+      ],
+      "area_name": "유리맥굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-5": {
+      "from_areas": [
+        "유리맥굴"
+      ],
+      "area_name": "유리맥굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-6": {
+      "from_areas": [
+        "유리맥굴"
+      ],
+      "area_name": "유리맥굴",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-northwork-1": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-northwork-2": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-northwork-3": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-northwork-4": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-northwork-lumbercamp": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-spring-rise": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-charcoal-ring": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-free-green-overhang": {
+      "from_areas": [
+        "돌다리 외곽"
+      ],
+      "area_name": "돌다리 북서 외곽",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-gate": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-courtyard": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-barracks": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-armory": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-stables": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-storehouse": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-command": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-wallwalk": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-watchtower": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-cellar": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-escape": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-rubble": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-ch1-fort-graveyard": {
+      "from_areas": [
+        "돌다리 서북 버려진 요새"
+      ],
+      "area_name": "돌다리 북서 버려진 요새",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "돌다리 마을"
+    },
+    "loc-glassvein-chain-workyard": {
+      "from_areas": [
+        "돌다리 마을"
+      ],
+      "area_name": "돌다리 마을",
+      "region_id": "stonebridge",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ac71507885af": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a09bebd9c4b4": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6f10569ac527": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-7edd170a2d50": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-7c72a97a81da": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-54834c114043": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-4820eb8a32d8": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-3f9225b3a229": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d4e5f222c381": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8db94bbbff0b": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "삼거리 정착지–동부 정착지 간 교역로",
+      "region_id": "crossroads_east_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-09b44ea62b8c": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e03c076a1b27": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-c79da1ac333c": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a6004d01ec90": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1e801b01d0b4": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-fa9c9082dce9": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-dab1f8d62fa9": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e10c1dd47c07": {
+      "from_areas": [
+        "동부 외곽",
+        "동부 정착지 외곽 · 방향 미확정",
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null,
+      "name": "물레방아"
+    },
+    "loc-1421a382755e": {
+      "from_areas": [
+        "옛 지하 배수로"
+      ],
+      "area_name": "옛 지하 배수로",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6556479faca4": {
+      "from_areas": [
+        "옛 지하 배수로"
+      ],
+      "area_name": "옛 지하 배수로",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8072150972e9": {
+      "from_areas": [
+        "옛 지하 배수로"
+      ],
+      "area_name": "옛 지하 배수로",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0f96168b1d48": {
+      "from_areas": [
+        "옛 지하 배수로"
+      ],
+      "area_name": "옛 지하 배수로",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a3c801ac7c4b": {
+      "from_areas": [
+        "옛 지하 배수로"
+      ],
+      "area_name": "옛 지하 배수로",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ff2fc8b058d3": {
+      "from_areas": [
+        "옛 지하 배수로"
+      ],
+      "area_name": "옛 지하 배수로",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-703dbdc6091e": {
+      "from_areas": [
+        "동부 외곽",
+        "동부 정착지 외곽 · 방향 미확정",
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-63b5ed66d572": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-28894289102c": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "동부 정착지 북동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-c3cb1bdb2888": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "동부 정착지 북동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-fb73c746090e": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "동부 정착지 북동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-f721cf1c69b8": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-84f10ef743d1": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-990c030428da": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-08c4b9c6f32c": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2a346deffb25": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-279d67720970": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2e6612444a0c": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-51cf6e333f91": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ead1e6c073a9": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1f3fa0508058": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-5ca359c66ff9": {
+      "from_areas": [
+        "제1 숯가마"
+      ],
+      "area_name": "제1 숯가마",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-4ecb269c48b7": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2fbe62c6b06c": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-088cb7ab16a6": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d269ff4e9b7c": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6a17c03a9711": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-64028339aa79": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ec664d89651e": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-9d2da6f5bd72": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1696ac81a435": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-c5135fa31a34": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-c1b89a028f80": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-d4fe305d5350": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2480365adf3f": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-02061646a4da": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-71490f3c55f2": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-ba820726fbbe": {
+      "from_areas": [
+        "동부 외곽",
+        "동부 정착지 일대 · 기록 혼합",
+        "동부 정착지 동 외곽"
+      ],
+      "area_name": "동부 정착지 동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "동부 정착지",
+      "name": "붉은 경계선",
+      "remove_aliases": [
+        "비로 드러난 지질 지점"
+      ],
+      "remove_targets": [
+        "비로 드러난 지질 지점"
+      ]
+    },
+    "loc-b0cd87836a10": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-2d2b43c13502": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-edcbbe9d972e": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a7fcb9d33526": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-5adb8facabfc": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e97ce64b9518": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-504b67b9cefd": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d4971f60e8c6": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8ab1af0e8400": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-020be82d6e83": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ce124386a698": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-79d38bc15dd9": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-27c9f5f18fec": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a44655aa3005": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-76c5dd4b42f5": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-867a70a36e7c": {
+      "from_areas": [
+        "검은 결의 목재 하부 동굴"
+      ],
+      "area_name": "검은 결의 목재 하부 동굴",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-4ca2922c434e": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-80b3877440e1": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-cb51853fd95a": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-a8f90a8b686b": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-40e1cca8cb7a": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-686f0a3d28a9": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-bdf31ea5f388": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-402f1d46bf98": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-fde845879166": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "W",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-b573540e2085": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-7ecf4888ff6f": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-de3ff83de0e6": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-b8946e834888": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북서 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-f92acdec413c": {
+      "from_areas": [
+        "동부 정착지",
+        "동부 정착지 일대 · 기록 혼합"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null,
+      "name": "서문 경비 인계 지점",
+      "remove_aliases": [
+        "동쪽 정착지 남쪽 — 남부 야지 경계",
+        "남부 야지 경계"
+      ],
+      "remove_targets": [
+        "동쪽 정착지 남쪽 — 남부 야지 경계",
+        "남부 야지 경계"
+      ]
+    },
+    "loc-d07ff2edfb05": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-5232e15b800f": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0f3cdfcf7ea2": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d5e480d82b8b": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-cf043d1c9e96": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ea2f960320c9": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-91bd8877ad26": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-983a6d816def": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-16fcb498e326": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-cbd89d9d96b7": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-01eb887292fb": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-bfaefb729ec9": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e69734bb9af6": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-c6df42168621": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-449b0c3d73ee": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0b77d76f4f64": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a3161e237815": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d37c6a6bd140": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-272b3bc10289": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e387c7f128b8": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-3bce61557db9": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b6d7a31ecd95": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6049643fb040": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1a4bee04ff88": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8b6c294a2b7d": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f6b6bf801fb3": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0fae9d1df1cb": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6444ed80b5d1": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1aa26eceb874": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-9e1a0fa0a30f": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-c1728b53c9c1": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-687d9def924f": {
+      "from_areas": [
+        "고대 유적"
+      ],
+      "area_name": "고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-30a206c094dc": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2d981add9175": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a41c534b75a5": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b4767cb76f28": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-7c612d36b4a7": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d8ae2867c902": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a19bdbb06e95": {
+      "from_areas": [
+        "거대한 고대 유적"
+      ],
+      "area_name": "거대한 고대 유적",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6f94b02cd511": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지 남 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-93f9d7c03065": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지 남 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-667808969c88": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지 남 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-587350d6c6b8": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-eef3ea884068": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-134cf2eb146c": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 남 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-5aac865d6c2e": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e0d91f016856": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-de13e393c4e7": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-95c34faa2633": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8b890cbbcc61": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-3315844feff8": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2635ecbdee76": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f5680b75ce0a": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-21dacb96ee7b": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d27f5d06ab42": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d840f13d2b2a": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-95f650c5515c": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-dd44bc4dfd1b": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "소형 고대 석조 창고",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-9abbb85e6def": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 남 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-e4487421232a": {
+      "from_areas": [
+        "소형 고대 석조 창고"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-27647b67831b": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-fb5bce9c3349": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0195abda654a": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-7b2580bc0385": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-aad3d3159558": {
+      "from_areas": [
+        "동부 외곽",
+        "동부 정착지 외곽 · 방향 미확정",
+        "동부 정착지 동 외곽"
+      ],
+      "area_name": "동부 정착지 동 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "동부 정착지",
+      "name": "비로 드러난 지질 조사 지점"
+    },
+    "loc-8124de6928f0": {
+      "from_areas": [
+        "무너진 채석장"
+      ],
+      "area_name": "무너진 채석장",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f474f7c550dd": {
+      "from_areas": [
+        "무너진 채석장"
+      ],
+      "area_name": "무너진 채석장",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d7a462c2c88b": {
+      "from_areas": [
+        "무너진 채석장"
+      ],
+      "area_name": "무너진 채석장",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b81b45852c2a": {
+      "from_areas": [
+        "무너진 채석장"
+      ],
+      "area_name": "무너진 채석장",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-55776d9baaf6": {
+      "from_areas": [
+        "무너진 채석장"
+      ],
+      "area_name": "무너진 채석장",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8ee63a63a9c5": {
+      "from_areas": [
+        "무너진 채석장"
+      ],
+      "area_name": "무너진 채석장",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-3dce599a28e2": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지 북 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-42d1b58bde1f": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지 북 외곽",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "동부 정착지"
+    },
+    "loc-c47494e14a7e": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1f7e20794c4c": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e4b092d34134": {
+      "from_areas": [
+        "동부 외곽"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-484d1ec66bd3": {
+      "from_areas": [
+        "동부 정착지"
+      ],
+      "area_name": "동부 정착지",
+      "region_id": "east",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-eb7717b239a5": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e1062bb05ae4": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 북 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-1cadaeedf3bb": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 북 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-2d3ded59c707": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 북 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-d228337eae24": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-b4b5c454e636": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d0bd92123456": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 북서 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "NW",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-6175cd5af826": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6b54c11a7252": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2c7c77c91c09": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지 북 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-f58ba90bfbec": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지 북동 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-fbdf370cd080": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 북동 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-4b3bfa80cc1c": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지 북동 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "NE",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-f5df220d8356": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-42854a61f30d": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2838e017f1e9": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8a7b68db992d": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-eaf7eec1c5e4": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 남 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-ba6f50db76ad": {
+      "from_areas": [
+        "삼거리 외곽"
+      ],
+      "area_name": "삼거리 정착지 남 외곽",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": "S",
+      "direction_origin": "삼거리 정착지"
+    },
+    "loc-6b9aa40dbd14": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-4819e3e6466e": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-4af22323cda5": {
+      "from_areas": [
+        "삼거리 정착지"
+      ],
+      "area_name": "삼거리 정착지",
+      "region_id": "crossroads",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ebb99d9655a2": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-baec28d787d5": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-e4d88453eeff": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f930eb49e8f8": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-7c3fcaaf3f08": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-efd4977e759e": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f3ad466b5652": {
+      "from_areas": [
+        "잠든 이를 위한 수도원"
+      ],
+      "area_name": "잠든 이를 위한 수도원",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-c350f2341b10": {
+      "from_areas": [
+        "잠든 이를 위한 수도원"
+      ],
+      "area_name": "잠든 이를 위한 수도원",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-af392e4c8ff6": {
+      "from_areas": [
+        "잠든 이를 위한 수도원"
+      ],
+      "area_name": "잠든 이를 위한 수도원",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-706373e81402": {
+      "from_areas": [
+        "잠든 이를 위한 수도원"
+      ],
+      "area_name": "잠든 이를 위한 수도원",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d384f88e01b2": {
+      "from_areas": [
+        "잠든 이를 위한 수도원"
+      ],
+      "area_name": "잠든 이를 위한 수도원",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-dd3fa235db7c": {
+      "from_areas": [
+        "잠든 이를 위한 수도원"
+      ],
+      "area_name": "잠든 이를 위한 수도원",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d971625d81bc": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-60fd5c5436da": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-7cb2f7bdf4d0": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-760e24c6a1f7": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-45e71d77ee6b": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2d07ea942f6d": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d714d1a5d419": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8d8d223d4769": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-5452a620e935": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-6ee1c2e0c8c4": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-588f6bce6baf": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-76e6f5763f92": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-89d9b152a66a": {
+      "from_areas": [
+        "거점 사이 교역로"
+      ],
+      "area_name": "동부 정착지–돌다리 마을 간 교역로",
+      "region_id": "trade_route",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ce70765bfa6b": {
+      "from_areas": [
+        "황금연어강 하류"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d79b0bc8b967": {
+      "from_areas": [
+        "황금연어강 하류"
+      ],
+      "area_name": "돌턱개울 수계",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-be5b4cb3e021": {
+      "from_areas": [
+        "황금연어강 하류"
+      ],
+      "area_name": "돌턱개울 수계",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-f5e4a47b4b41": {
+      "from_areas": [
+        "붉은갈대 부락",
+        "붉은갈대 일대 · 기록 혼합"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null,
+      "remove_aliases": [
+        "붉은갈대 부락",
+        "붉은갈대 습지",
+        "붉은갈대"
+      ]
+    },
+    "loc-830ac04284b4": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-fa9d5c9e2f7b": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d3383e9ebb8e": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 동 외곽",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": "E",
+      "direction_origin": "붉은갈대 부락"
+    },
+    "loc-8f54541915a0": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 북 외곽",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "붉은갈대 부락"
+    },
+    "loc-4e37c64eefd4": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-57e731523d5d": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-a2b4ba7f6b12": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-ffd180c6363f": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 북 외곽",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "붉은갈대 부락"
+    },
+    "loc-49f61d2f5c35": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 북 외곽",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "붉은갈대 부락"
+    },
+    "loc-a29e839b4b79": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 북 외곽",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": "N",
+      "direction_origin": "붉은갈대 부락"
+    },
+    "loc-3b2530ea7be9": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1484e343a0d6": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-eded91af1101": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-745bbaca25be": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-d15e697be3f7": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-2f7c88d3752c": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-8fc791b92dca": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1b47441b5e90": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 습지",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1acb5682dee0": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null,
+      "name": "붉은갈대 부락"
+    },
+    "loc-d073c10c61e3": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-520932801345": {
+      "from_areas": [
+        "붉은갈대 부락",
+        "붉은갈대 부락 주변 · 방향 미확정"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-74a194b0a95d": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-67b9a75066a9": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-bb45c543d9d0": {
+      "from_areas": [
+        "붉은갈대 부락"
+      ],
+      "area_name": "붉은갈대 부락",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0799d54ee024": {
+      "from_areas": [
+        "황금연어강 하류"
+      ],
+      "area_name": "황금연어강 곁분류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-1840ba6754f9": {
+      "from_areas": [
+        "붉은갈대 부락",
+        "붉은갈대 일대 · 기록 혼합",
+        "황금연어강 하류"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "loc-0eee1c87c525": {
+      "from_areas": [
+        "붉은갈대 외곽"
+      ],
+      "area_name": "붉은갈대 강변 신목",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "willow-bank": {
+      "from_areas": [
+        "황금연어강 하류"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    },
+    "gravel-shallows-route": {
+      "from_areas": [
+        "황금연어강 하류"
+      ],
+      "area_name": "황금연어강 하류",
+      "region_id": "lower_river",
+      "confidence": "explicit",
+      "direction": null,
+      "direction_origin": null
+    }
+  }
+}
